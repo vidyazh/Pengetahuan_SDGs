@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity2">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1043px"
+        android:src="@drawable/pemandangan">
+    </ImageView>
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1657px"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/layer3">
+
+        <TextView
+            android:id="@+id/apa_itu_sdgs"
+            android:layout_width="wrap_content"
+            android:layout_height="150px"
+            android:text="APA ITU SDGs ?"
+            android:textSize="100px"
+            android:fontFamily="@font/poppins_extra_bold"
+            android:textColor="#AD7A56"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="100px">
+        </TextView>
+
+
+        <ScrollView
+            android:layout_width="1395px"
+            android:layout_height="672px"
+            android:id="@+id/scroll"
+            android:layout_below="@+id/apa_itu_sdgs"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="18px">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <TextView
+                    android:id="@+id/penjelasan1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Sustainable Development Goals (SDGs) merupakan suatu rencana aksi global yang disepakati oleh para pemimpin dunia, termasuk Indonesia, guna mengakhiri kemiskinan, mengurangi kesenjangan dan melindungi lingkungan. SDGs berisi 17 Tujuan dan 169 Target yang diharapkan dapat dicapai pada tahun 2030."
+                    android:textAlignment="viewStart"
+                    android:fontFamily="@font/poppins_semi_bold"
+                    android:textColor="#AD7A56"
+                    android:textSize="56px">
+                </TextView>
+
+                <TextView
+                    android:id="@+id/penjelasan2"
+                    android:layout_below="@id/penjelasan1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Untuk mempermudah memahami SDGs, terdapat 4 pilar yang telah mencakup 17 Tujuan."
+                    android:textAlignment="viewStart"
+                    android:fontFamily="@font/poppins_semi_bold"
+                    android:textColor="#AD7A56"
+                    android:textSize="56px"
+                    android:layout_marginTop="10px">
+                </TextView>
+
+            </RelativeLayout>
+
+        </ScrollView>
+
+        <Button
+            android:id="@+id/lanjut"
+            android:layout_below="@+id/scroll"
+            android:layout_width="500px"
+            android:layout_height="250px"
+            android:layout_marginTop="40px"
+            android:background="@drawable/button_shadow"
+            android:text="LANJUT"
+            android:textSize="60px"
+            android:fontFamily="@font/poppins_extra_bold"
+            android:layout_centerInParent="true"
+            android:textAlignment="center">
+
+        </Button>
+        
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="511px"
+            android:layout_alignParentBottom="true"
+            android:src="@drawable/dauntanah">
+        </ImageView>
+    </RelativeLayout>
+</RelativeLayout>

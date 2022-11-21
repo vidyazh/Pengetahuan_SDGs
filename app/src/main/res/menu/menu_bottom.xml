@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/navigation_sosial"
+    android:icon="@drawable/icon_sosial">
+
+</item>
+    <item
+        android:id="@+id/navigation_ekonomi"
+        android:icon="@drawable/icon_ekonomi">
+    </item>
+
+    <item
+        android:id="@+id/navigation_lingkungan"
+        android:icon="@drawable/icon_lingkungan"></item>
+
+    <item
+        android:id="@+id/navigation_kelola"
+        android:icon="@drawable/icon_kelola"
+        ></item>
+</menu>

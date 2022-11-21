@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/list1"
+        android:layout_width="1396px"
+        android:layout_height="508px"
+        android:background="@drawable/for_sdg4"
+        android:layout_marginTop="10px"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:id="@+id/img_photo4"
+            android:layout_width="348px"
+            android:layout_height="348px"
+            android:src="@drawable/sdg16"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="80px">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/txt_name4"
+            android:layout_toRightOf="@id/img_photo4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_extra_bold"
+            android:layout_marginLeft="20px"
+            android:layout_marginRight="70px"
+            android:layout_marginTop="70px"
+            android:textColor="#4D4D4D"
+            android:text="@string/title4"
+            android:textSize="55px">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/txt_description4"
+            android:layout_below="@id/txt_name4"
+            android:layout_toRightOf="@id/img_photo4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_semi_bold"
+            android:layout_marginLeft="20px"
+            android:layout_marginRight="70px"
+            android:textColor="#4D4D4D"
+            android:text="@string/description4"
+            android:textSize="40px"
+            android:maxLines="3">
+        </TextView>
+    </RelativeLayout>
+
+</RelativeLayout>

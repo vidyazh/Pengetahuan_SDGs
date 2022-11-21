@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KelolaFragment"
+    android:background="@drawable/latar_kelola">
+
+    <ImageView
+        android:id="@+id/penjelasankelola"
+        android:layout_width="match_parent"
+        android:layout_height="760px"
+        android:background="@drawable/layer4">
+    </ImageView>
+
+    <TextView
+        android:id="@+id/kelola"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pilar Tata Kelola"
+        android:fontFamily="@font/poppins_extra_bold"
+        android:textSize="100px"
+        android:layout_centerHorizontal="true"
+        android:textColor="#AD7A56"
+        android:layout_marginTop="140px"/>
+
+    <ScrollView
+        android:layout_width="1372px"
+        android:layout_height="330px"
+        android:layout_below="@id/kelola"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/kelola2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Bertujuan terwujudnya kepastian hukum dan tata kelola yang efektif, transparan, akuntabel dan partisipatif untuk menciptakan stabilitas keamanan dan mencapai negara berdasarkan hukum."
+            android:fontFamily="@font/poppins_semi_bold"
+            android:textSize="56px"
+            android:textAlignment="center"
+            android:textColor="#AD7A56"/>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/kelola3"
+        android:layout_above="@id/next"
+        android:layout_width="1372px"
+        android:layout_height="wrap_content"
+        android:text="Klik tombol dibawah ini"
+        android:fontFamily="@font/poppins_semi_bold"
+        android:layout_marginBottom="-120dp"
+        android:textSize="56px"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:textColor="#AD7A56"/>
+
+    <Button
+        android:id="@+id/next"
+        android:layout_below="@id/penjelasankelola"
+        android:layout_width="500px"
+        android:layout_height="250px"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/button_shadow"
+        android:text="LANJUT"
+        android:textSize="60px"
+        android:fontFamily="@font/poppins_extra_bold"
+        android:layout_centerInParent="true"
+        android:textAlignment="center"/>
+
+</RelativeLayout>

@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Pengetahuan SDGs</string>
+    <string name="title">Tanpa Kemiskinan</string>
+    <string name="description">Dengan pertimbangan bahwa kemiskinan masih menjadi problem di berbagai negara di dunia ini, maka “penghilangan kemiskinan dan kelaparan” pada 2030 menjadi “tulang punggung” dari tujuan agenda pembangunan berkelanjutan.</string>
+
+    <string-array name="data_name">
+        <item>Tanpa Kemiskinan</item>
+        <item>Tanpa Kelaparan</item>
+        <item>Kehidupan Sehat dan Sejahtera</item>
+        <item>Pendidikan Berkualitas</item>
+        <item>Kesetaraan Gender</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dengan pertimbangan bahwa kemiskinan masih menjadi problem di berbagai negara di dunia ini, maka “penghilangan kemiskinan dan kelaparan” pada 2030 menjadi “tulang punggung” dari tujuan agenda pembangunan berkelanjutan. Kemiskinan yang menjadi tujuan utama MDGs kembali menjadi tujuan utama dalam SDGs. Selain karena kemiskinan dan kelaparan masih sebagai problem dunia, menjadikan penghapusan kemiskinan sebagai tujuan utama diarahkan untuk menjamin keberlanjutan capaian MDGs.</item>
+        <item>Kelaparan didefinisikan sebagai kondisi hasil dari kurangnya konsumsi pangan kronik. Dalam jangka panjang, kelaparan kronis berakibat buruk pada derajat kesehatan masyarakat dan menyebabkan tingginya pengeluaran masyarakat untuk kesehatan.</item>
+        <item>Seluruh isu kesehatan dalam SDGs diintegrasikan dalam satu tujuan yakni tujuan nomor 3, yaitu menjamin kehidupan yang sehat dan mendorong kesejahteraan bagi semua orang di segala usia. Terdapat 38 target SDGs di sektor kesehatan yang perlu diwujudkan. Selain permasalahan yang belum tuntas ditangani diantaranya yaitu upaya penurunan angka kematian ibu (AKI) dan angka kematian bayi (AKB), pengendalian penyakit HIV/AIDS, TB, Malaria serta peningkatan akses kesehatan reproduksi (termasuk KB), terdapat hal-hal baru yang menjadi perhatian, yaitu: 1) Kematian akibat penyakit tidak menular (PTM); 2) Penyalahgunaan narkotika dan alkohol; 3) Kematian dan cedera akibat kecelakaan lalu lintas; 4) Universal Health Coverage; 5) Kontaminasi dan polusi air, udara dan tanah; serta penanganan krisis dan kegawatdaruratan.</item>
+        <item>Pendidikan dewasa ini merupakan hak mendasar di dalam nilai kehidupan manusia. Pendidikan memiliki peranan yang sangat penting untuk menunjang kehidupan manusia karena pada dasarnya manusia dalam melaksanakan kehidupannya tidak lepas dari pendidikan. Implementasi dan pengembangan kajian pendidikan juga harus disesuaikan dengan kondisi serta situasi sosial yang ada di masyarakat. Sebab, pendidikan laksana eksperimen yang tidak pernah selesai sampai kapan pun, sepanjang ada kehidupan manusia di dunia ini. Dikatakan demikian karena pendidikan merupakan bagian dari kebudayaan dan peradaban manusia yang terus berkembang. Hal ini sejalan dengan pembawaan manusia yang memiliki potensi kreatif dan inovatif.</item>
+        <item>Gender adalah pembedaan peran, atribut, sifat, sikap dan perilaku yang tumbuh dan berkembang dalam masyarakat. Dan peran gender terbagi menjadi peran produktif, peran reproduksi serta peran sosial kemasyarakatan.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/sdg1</item>
+        <item>@drawable/sdg2</item>
+        <item>@drawable/sdg3</item>
+        <item>@drawable/sdg4</item>
+        <item>@drawable/sdg5</item>
+    </array>
+
+    <string name="title2">Energi Bersih dan Terjangkau</string>
+    <string name="description2">Pembangunan ekonomi yang infklusif adalah cara paling efektif untuk mengurangi kemiskinan dan meningkatkan kesejahteraan. Tetapi sebagian besar kegiatan ekonomi mustahil dilakukan tanpa tersedianya energi modern yang cukup, handal, dan memiliki
+                                    harga yang kompetitif.</string>
+
+    <string-array name="data_name2">
+        <item>Energi Bersih dan Terjangkau</item>
+        <item>Pekerjaan Layak dan Pertumbuhan Ekonomi</item>
+        <item>Industri, Inovasi, dan Infrastruktur</item>
+        <item>Berkurangnya Kesenjangan</item>
+        <item>Kemitraan untuk Mencapai Tujuan</item>
+    </string-array>
+
+    <string-array name="data_description2">
+        <item>Pembangunan ekonomi yang infklusif adalah cara paling efektif
+            untuk mengurangi kemiskinan dan meningkatkan kesejahteraan. Tetapi
+            sebagian besar kegiatan ekonomi mustahil dilakukan tanpa tersedianya energi
+            modern yang cukup, handal, dan memiliki harga yang kompetitif.</item>
+        <item>Memiliki pekerjaan tidaklah menjamin kemampuan untuk keluar dari
+            cengkeraman kemiskinan. Kekurangan peluang kerja yang layak secara terus
+            menerus, investasi yang tidak memadai dan rendahnya konsumsi mengarah
+            pada erosi kontrak sosial mendasar yang menjadi landasan
+            masyarakat demokratis: Semua kemajuan harus dibagi bersama.</item>
+        <item>Investasi berkelanjutan dalam infratruktur dan inovasi adalah penggerak
+            penting pertumbuhan ekonomi dan pembangunan. Saat ini lebih dari setengah
+            dunia tinggal di perkotaan, karena itu transportasi massal dan energi terbarukan
+            menjadi sangat penting, begitu juga dengan
+            pertumbuhan industri baru serta teknologi informasi dan komunikasi.</item>
+        <item>Kesenjangan pendapatan sedang mengalami kenaikan, 10 persen orang-orang
+            terkaya menguasai 40 persen dari total pendapatan global. Di lain pihak, 10
+            persen orang-orang termiskin hanya mendapat antara 2 sampai 7 persen dari
+            total pendapatan global. Di negara-negara berkembang, kesenjangan ini telah
+            meningkat sebanyak11 persen jika kita menghitung berdasarkan pertumbuhan populasi.</item>
+        <item>SDG hanya bisa terwujud dengan komitmen kuat pada kemitraan dan kerja sama global.
+            Meskipun bantuan pembangunan resmi dari negara-negara maju meningkat hingga 66 persen
+            antara tahun 2000 sampai 2014, krisis kemanusiaan akibat konflik dan bencana alam terus
+            menuntut bantuan dan sumber-sumber finansial. Banyak negara yang juga meminta bantuan
+            pembangunanresmi untuk meningkatkan pertumbuhan dan perdagangan.</item>
+    </string-array>
+
+    <array name="data_photo2">
+        <item>@drawable/sdg7</item>
+        <item>@drawable/sdg8</item>
+        <item>@drawable/sdg9</item>
+        <item>@drawable/sdg10</item>
+        <item>@drawable/sdg17</item>
+
+    </array>
+
+    <string name="title3">Air Bersih dan Sanitasi Layak</string>
+    <string name="description3">Air bersih dan sanitasi layak adalah kebutuhan dasar manusia. Salah satu poin dalam tujuan pembangunan berkelanjutan (sustainable development goals/SDGs) pada sektor lingkungan hidup adalah memastikan masyarakat mencapai akses universal air bersih dan sanitasi.</string>
+
+    <string-array name="data_name3">
+        <item> Air Bersih dan Sanitasi Layak</item>
+        <item>Kota dan Pemukiman Layak</item>
+        <item>Konsumsi dan Produksi yang Bertanggung Jawab</item>
+        <item>Penanganan Perubahan Iklim</item>
+        <item>Ekosistem Laut</item>
+        <item>Ekosistem Darat</item>
+    </string-array>
+
+    <string-array name="data_description3">
+        <item>Air bersih dan sanitasi layak adalah kebutuhan dasar manusia. Salah satu poin dalam tujuan pembangunan berkelanjutan (sustainable development goals/SDGs) pada sektor lingkungan hidup adalah memastikan masyarakat mencapai akses universal air bersih dan sanitasi.</item>
+        <item>Memastikan akses terhadap perumahan dan pelayanan dasar yang layak, aman dan terjangkau bagi semua dan meningkatkan mutu pemukiman kumuh. menyediakan akses terhadap sistem transportasi yang aman, terjangkau, mudah diakses, dan berkelanjutan bagi semua, meningkatkan keamanan jalan, dengan memperbanyak transportasi publik, dengan perhatian khusus terhadap kebutuhan dari mereka yang berada di situasi rentan, perempuan, anak-anak, orang dengan disablitas dan manula</item>
+        <item>Investasi berkelanjutan dalam infratruktur dan inovasi adalah penggerak
+            penting pertumbuhan ekonomi dan pembangunan. Saat ini lebih dari setengah
+            dunia tinggal di perkotaan, karena itu transportasi massal dan energi terbarukan
+            menjadi sangat penting, begitu juga dengan
+            pertumbuhan industri baru serta teknologi informasi dan komunikasi.</item>
+        <item>Kesenjangan pendapatan sedang mengalami kenaikan, 10 persen orang-orang
+            terkaya menguasai 40 persen dari total pendapatan global. Di lain pihak, 10
+            persen orang-orang termiskin hanya mendapat antara 2 sampai 7 persen dari
+            total pendapatan global. Di negara-negara berkembang, kesenjangan ini telah
+            meningkat sebanyak11 persen jika kita menghitung berdasarkan pertumbuhan populasi.</item>
+        <item>SDG hanya bisa terwujud dengan komitmen kuat pada kemitraan dan kerja sama global.
+            Meskipun bantuan pembangunan resmi dari negara-negara maju meningkat hingga 66 persen
+            antara tahun 2000 sampai 2014, krisis kemanusiaan akibat konflik dan bencana alam terus
+            menuntut bantuan dan sumber-sumber finansial. Banyak negara yang juga meminta bantuan
+            pembangunanresmi untuk meningkatkan pertumbuhan dan perdagangan.</item>
+        <item>SDG hanya bisa terwujud dengan komitmen kuat pada kemitraan dan kerja sama global.
+            Meskipun bantuan pembangunan resmi dari negara-negara maju meningkat hingga 66 persen
+            antara tahun 2000 sampai 2014, krisis kemanusiaan akibat konflik dan bencana alam terus
+            menuntut bantuan dan sumber-sumber finansial. Banyak negara yang juga meminta bantuan
+            pembangunanresmi untuk meningkatkan pertumbuhan dan perdagangan.</item>
+    </string-array>
+
+    <array name="data_photo3">
+        <item>@drawable/sdg6</item>
+        <item>@drawable/sdg11</item>
+        <item>@drawable/sdg12</item>
+        <item>@drawable/sdg13</item>
+        <item>@drawable/sdg14</item>
+        <item>@drawable/sdg15</item>
+
+    </array>
+
+    <string name="title4">Perdamaian, Keadilan, dan Kelembagaan yang Kuat</string>
+    <string name="description4">Pembangunan ekonomi yang infklusif adalah cara paling efektif untuk mengurangi kemiskinan dan meningkatkan kesejahteraan. Tetapi sebagian besar kegiatan ekonomi mustahil dilakukan tanpa tersedianya energi modern yang cukup, handal, dan memiliki
+                                    harga yang kompetitif.</string>
+
+    <string-array name="data_name4">
+        <item>Perdamaian, Keadilan, dan Kelembagaan yang Kuat</item>
+
+    </string-array>
+
+    <string-array name="data_description4">
+        <item>Pembangunan ekonomi yang infklusif adalah cara paling efektif
+            untuk mengurangi kemiskinan dan meningkatkan kesejahteraan. Tetapi
+            sebagian besar kegiatan ekonomi mustahil dilakukan tanpa tersedianya energi
+            modern yang cukup, handal, dan memiliki harga yang kompetitif.</item>
+    </string-array>
+
+    <array name="data_photo4">
+        <item>@drawable/sdg16</item>
+    </array>
+
+</resources>
